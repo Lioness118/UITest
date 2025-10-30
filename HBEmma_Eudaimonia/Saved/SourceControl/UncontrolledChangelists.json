@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/local/eha146/DISC380/UITest/HBEmma_Eudaimonia/Content/UI/UI_Img_Assets/ManaFill.uasset",
+				"D:/local/eha146/DISC380/UITest/HBEmma_Eudaimonia/Content/UI/WBP_HUD.uasset",
 				"C:/UNI/PROD344/Test/UITest/HBEmma_Eudaimonia/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
 				"C:/UNI/PROD344/Test/UITest/HBEmma_Eudaimonia/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/UNI/PROD344/Test/UITest/HBEmma_Eudaimonia/Content/UI/UI_Img_Assets/Vector.uasset",
